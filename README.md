@@ -22,7 +22,7 @@ All the datasets are labelled and stored in the folder "Data"
 * Training Word2Vec model to extract similar skills using cosine similairty 
 * Semantic network of skills
 
-# Recommendation.ipyb: 
+# Make_Recommendations.ipyb: 
 * Building the recommendation model 
 * Displaying Result
 
